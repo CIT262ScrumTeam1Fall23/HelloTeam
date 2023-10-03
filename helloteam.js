@@ -1,1 +1,1 @@
-const teamnames = ["Arianne", "Nate", "Eric"];
+const teamnames = ["Arianne", "Nate", "Eric", "Izak"];
