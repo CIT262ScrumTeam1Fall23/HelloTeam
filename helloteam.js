@@ -1,1 +1,6 @@
-const teamnames = ["Arianne", "Nate", "Eric", "Izak"];
+
+const teamNames = ["Arianne", "Nate", "Eric", "Izak", "Bamidele"];
+
+teamNames.forEach(function(member) {
+    console.log(member)
+})
